@@ -1,4 +1,4 @@
-#Cursor Website Clone
+#Cursor Website Clone#
 
 It is a CURSOR clone built using HTML and CSS.
 
